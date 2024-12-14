@@ -1,0 +1,14 @@
+C:\Users\serg1\Desktop\ConsoleApp18\ConsoleApp18\bin\Debug\net8.0\TestFabrica.exe
+C:\Users\serg1\Desktop\ConsoleApp18\ConsoleApp18\bin\Debug\net8.0\TestFabrica.deps.json
+C:\Users\serg1\Desktop\ConsoleApp18\ConsoleApp18\bin\Debug\net8.0\TestFabrica.runtimeconfig.json
+C:\Users\serg1\Desktop\ConsoleApp18\ConsoleApp18\bin\Debug\net8.0\TestFabrica.dll
+C:\Users\serg1\Desktop\ConsoleApp18\ConsoleApp18\bin\Debug\net8.0\TestFabrica.pdb
+C:\Users\serg1\Desktop\ConsoleApp18\ConsoleApp18\obj\Debug\net8.0\TestFabrica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serg1\Desktop\ConsoleApp18\ConsoleApp18\obj\Debug\net8.0\TestFabrica.AssemblyInfoInputs.cache
+C:\Users\serg1\Desktop\ConsoleApp18\ConsoleApp18\obj\Debug\net8.0\TestFabrica.AssemblyInfo.cs
+C:\Users\serg1\Desktop\ConsoleApp18\ConsoleApp18\obj\Debug\net8.0\TestFabrica.csproj.CoreCompileInputs.cache
+C:\Users\serg1\Desktop\ConsoleApp18\ConsoleApp18\obj\Debug\net8.0\TestFabrica.dll
+C:\Users\serg1\Desktop\ConsoleApp18\ConsoleApp18\obj\Debug\net8.0\refint\TestFabrica.dll
+C:\Users\serg1\Desktop\ConsoleApp18\ConsoleApp18\obj\Debug\net8.0\TestFabrica.pdb
+C:\Users\serg1\Desktop\ConsoleApp18\ConsoleApp18\obj\Debug\net8.0\TestFabrica.genruntimeconfig.cache
+C:\Users\serg1\Desktop\ConsoleApp18\ConsoleApp18\obj\Debug\net8.0\ref\TestFabrica.dll
